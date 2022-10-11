@@ -26,6 +26,6 @@ A well-trained model is also provided. This model achieves an average score of 2
 python3 test_dqn_pong.py model_trained.pth
 ```
 
-Demo video of running the models:
+## Demo video of running the models:
 
 https://youtu.be/9BRiTCtYk2M
